@@ -3,7 +3,7 @@ import { Navigate, Route, Routes } from 'react-router-dom'
 import { Navigation } from '../components/navigation/Navigation'
 import { PokemonPage } from '../components/PokemonPage/pokemonPage'
 import { HomePage } from '../components/pages/HomePage'
-import {SearchPage} from '../components/SearchPage.jsx/SearchPage'
+import {SearchPage} from '../components/SearchPage/searchPage'
 
 function AppRouter() {
   return (
